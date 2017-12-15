@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "-------------------------------------------------"
+echo "=Something was configured and is running somehow="
+echo "-------------------------------------------------"
