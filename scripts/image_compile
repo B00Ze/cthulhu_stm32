@@ -1,0 +1,3 @@
+#!/bin/bash 
+image_name=cthulhu_stm32
+ docker build -t $image_name -f Dockerfile .
